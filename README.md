@@ -6,10 +6,10 @@ This app uses machine learning to recognize bird species from images. It is buil
 <table>
   <tr>
     <td style="padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/53f511db-3bf2-4f7d-a4ca-7dcb5f07aa8d" width="350" />
+      <img src="https://github.com/user-attachments/assets/708dcf15-2893-49d9-ad3b-bfcb44da112e" width="350" />
     </td>
     <td style="padding: 10px;">
-      <img src="https://github.com/user-attachments/assets/1a6e9d32-7be7-430f-b0b8-21cbd8cdb514" width="350" />
+      <img src="https://github.com/user-attachments/assets/84d298e0-9504-433f-9a94-caea77571b02" width="350" />
     </td>
     <td style="padding: 10px;">
       <img src="https://github.com/user-attachments/assets/05d02a92-22ab-45de-a71c-0cd4929e7a15" width="350" />
