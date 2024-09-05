@@ -55,7 +55,7 @@ This app uses machine learning to recognize bird species from images. It is buil
    cd bird-species-recognition-app
 
 
-   ## License
+## License
 
 This project is licensed under the Apache License 2.0. See the [LICENSE.txt](LICENSE.txt) file for details.
 
