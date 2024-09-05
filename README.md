@@ -2,9 +2,21 @@
 
 This app uses machine learning to recognize bird species from images. It is built using Kotlin for Android development and utilizes a model created in Python. The app includes a feature to search for bird species, which integrates with Firebase for storing and retrieving bird images.
 
-## License
+### ScreenShots
+<table>
+  <tr>
+    <td style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/53f511db-3bf2-4f7d-a4ca-7dcb5f07aa8d" width="350" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/1a6e9d32-7be7-430f-b0b8-21cbd8cdb514" width="350" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://github.com/user-attachments/assets/05d02a92-22ab-45de-a71c-0cd4929e7a15" width="350" />
+    </td>
+  </tr>
+</table>
 
-This project is licensed under the Apache License 2.0. See the [LICENSE.txt](LICENSE.txt) file for details.
 
 ## Features
 
@@ -41,3 +53,9 @@ This project is licensed under the Apache License 2.0. See the [LICENSE.txt](LIC
    ```sh
    git clone https://github.com/DevendraShendkar/Bird-Recognition-App.git
    cd bird-species-recognition-app
+
+
+   ## License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE.txt](LICENSE.txt) file for details.
+
