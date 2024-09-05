@@ -42,6 +42,11 @@ class HomeFragment : Fragment() {
             startActivityForResult(galleryIntent, 3)
         }
 
+        binding.imageView1.setOnClickListener{
+            val galleryIntent = Intent(Intent.ACTION_PICK, MediaStore.Images.Media.EXTERNAL_CONTENT_URI)
+            startActivityForResult(galleryIntent, 3)
+        }
+
         binding.birdSound.text?.toString()?.trim()?.let { userInputBirdName ->
             if (userInputBirdName.isNotBlank()) {
                 // Fetch matching bird sound file names using the user-provided bird name
