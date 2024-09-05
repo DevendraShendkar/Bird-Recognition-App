@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_margin="8dp"
+    android:background="@drawable/themes_chat_back_cloud"
+    android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="2dp"
+            android:gravity="center"
+            android:background="@drawable/theme_item_back_stroke">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/layer"
+                android:gravity="center"
+                android:layout_marginStart="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_alignParentTop="true">
+
+                <ImageView
+                    android:id="@+id/themeImg"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_height="200dp"
+                    android:padding="7dp"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/themeName"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:textSize="15sp"
+                android:layout_below="@+id/layer"
+                android:layout_alignStart="@+id/layer"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:layout_alignEnd="@+id/layer"
+                android:layout_marginStart="4dp"
+                android:layout_marginEnd="4dp"/>
+
+        </RelativeLayout>
+</RelativeLayout>
