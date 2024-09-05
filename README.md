@@ -39,5 +39,5 @@ This project is licensed under the Apache License 2.0. See the [LICENSE.txt](LIC
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/bird-species-recognition-app.git
+   git clone https://github.com/DevendraShendkar/Bird-Recognition-App.git
    cd bird-species-recognition-app
